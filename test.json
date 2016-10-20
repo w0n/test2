@@ -1,9 +1,9 @@
 {
   "versionInfo" : {
-  "fwVersion" : [
-  {
-    "currentVersion" : "2.0.0"
-  }
-  ]
+    "fwVersion" : [
+    {
+      "currentVersion" : "2.0.0"
+    }
+    ]
   }
 }
